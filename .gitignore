@@ -1,0 +1,8 @@
+# IDEs
+.vscode/
+.idea/
+
+# Compiled files
+*.exe
+*.out
+*.elf
